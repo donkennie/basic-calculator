@@ -1,0 +1,13 @@
+C:\Users\owner\Documents\KennyProjects\BasicCalc\BasicCalc\bin\Debug\netcoreapp3.1\BasicCalc.exe
+C:\Users\owner\Documents\KennyProjects\BasicCalc\BasicCalc\bin\Debug\netcoreapp3.1\BasicCalc.deps.json
+C:\Users\owner\Documents\KennyProjects\BasicCalc\BasicCalc\bin\Debug\netcoreapp3.1\BasicCalc.runtimeconfig.json
+C:\Users\owner\Documents\KennyProjects\BasicCalc\BasicCalc\bin\Debug\netcoreapp3.1\BasicCalc.runtimeconfig.dev.json
+C:\Users\owner\Documents\KennyProjects\BasicCalc\BasicCalc\bin\Debug\netcoreapp3.1\BasicCalc.dll
+C:\Users\owner\Documents\KennyProjects\BasicCalc\BasicCalc\bin\Debug\netcoreapp3.1\BasicCalc.pdb
+C:\Users\owner\Documents\KennyProjects\BasicCalc\BasicCalc\obj\Debug\netcoreapp3.1\BasicCalc.csprojAssemblyReference.cache
+C:\Users\owner\Documents\KennyProjects\BasicCalc\BasicCalc\obj\Debug\netcoreapp3.1\BasicCalc.AssemblyInfoInputs.cache
+C:\Users\owner\Documents\KennyProjects\BasicCalc\BasicCalc\obj\Debug\netcoreapp3.1\BasicCalc.AssemblyInfo.cs
+C:\Users\owner\Documents\KennyProjects\BasicCalc\BasicCalc\obj\Debug\netcoreapp3.1\BasicCalc.csproj.CoreCompileInputs.cache
+C:\Users\owner\Documents\KennyProjects\BasicCalc\BasicCalc\obj\Debug\netcoreapp3.1\BasicCalc.dll
+C:\Users\owner\Documents\KennyProjects\BasicCalc\BasicCalc\obj\Debug\netcoreapp3.1\BasicCalc.pdb
+C:\Users\owner\Documents\KennyProjects\BasicCalc\BasicCalc\obj\Debug\netcoreapp3.1\BasicCalc.genruntimeconfig.cache
